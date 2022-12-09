@@ -1,0 +1,9 @@
+{
+	"name": "ADFInsuranceAnalytics",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "32fecacf-3af3-4e05-b671-7de2100f2a01",
+		"tenantId": "fa60f3da-5f4a-4bbc-acf6-b14bc8143084"
+	}
+}
